@@ -1,0 +1,10 @@
+* quicksearch
+
+Search Engine Interface for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tkych/quicksearch.git   |
+| commit  | fb02ecf  |
+| systems | quicksearch |
+|---------+-------------------------------------------|
+
